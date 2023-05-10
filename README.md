@@ -21,7 +21,7 @@ Open a command prompt or terminal and navigate to the repository directory.
 Launch Jupyter Notebook by running the following command:
 Copy code
 jupyter notebook
-Your web browser should open the Jupyter Notebook interface. Click on the wine_classification.ipynb file to open it.
+Your web browser should open the Jupyter Notebook interface. Click on the SVM-KNN-GNB.ipynb file to open it.
 Follow the instructions and execute the code cells in the notebook to run the classifiers and observe the results.
 Feel free to modify the code or experiment with different parameters to further explore the classifiers' behavior.
 
