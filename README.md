@@ -13,9 +13,13 @@ Scikit-Learn
 
 ## Files
 -SVM.ipynb: This Jupyter Notebook contains the implementation and evaluation of the SVM classifier on the Wine dataset.
+
 -KNN.ipynb: This Jupyter Notebook contains the implementation and evaluation of the KNN classifier on the Wine dataset.
+
 -GNB.ipynb: This Jupyter Notebook contains the implementation and evaluation of the GNB classifier on the Wine dataset.
+
 -MLR.ipynb: This Jupyter Notebook contains the implementation and evaluation of the GNB classifier on the Wine dataset.
+
 -wine.data: The dataset file in CSV format. It contains the wine samples and their corresponding labels.
 
 ## Usage
@@ -34,7 +38,6 @@ Each notebook provides a step-by-step implementation of the corresponding classi
 
 You can analyze the results and draw conclusions about the effectiveness of each classifier for this particular dataset. Additionally, you can further improve the models' performance by tuning hyperparameters or experimenting with other algorithms.
 
-You can analyze the results and draw conclusions about the effectiveness of each classifier for this particular dataset. Additionally, you can further improve the models' performance by tuning hyperparameters or experimenting with other algorithms.
 
 ## Acknowledgments
 The Wine dataset used in this project is publicly available and can be found in the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Wine).
